@@ -1,0 +1,20 @@
+Body{
+  Text-align:center;
+  Font-family: COPPERPLATE;
+  Background-color:black;
+}
+Nav{background-color:#white; Border-style:solid; border-color:#66ff66;}
+a{ color:#66ff66;}
+h1{ color:white;}
+h2{ color:white;}
+h3{ color:white;}
+h4{ color:white;}
+h5{ color:white;}
+h6{ color:white;}
+img{border-style:double; Border-color:#66ff66 20px;}
+Footer{ text-align:center;
+background-color:black;
+Color:white;
+Border-style:solid;
+border-color:#66ff66;
+}

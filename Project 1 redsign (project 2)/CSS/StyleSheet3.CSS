@@ -1,0 +1,19 @@
+Body{
+  Text-align:center;
+  Font-family: monaco;
+  Background-image:Linear-gradient(#009999,#944dff);
+}
+Nav{Border-style:double; border-color:white; Color:white;}
+a{ color:white;}
+h1{ color:white;}
+h2{ color:white;}
+h3{ color:white;}
+h4{ color:white;}
+h5{ color:white;}
+h6{ color:white;}
+img{border-style:solid; Border-color:#ffffff 20px;}
+Footer{ text-align:center;
+Color:white;
+Border-style:double;
+border-color:white;
+}
